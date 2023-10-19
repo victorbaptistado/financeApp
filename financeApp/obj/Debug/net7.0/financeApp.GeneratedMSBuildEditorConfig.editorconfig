@@ -1,0 +1,49 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = financeApp
+build_property.RootNamespace = financeApp
+build_property.ProjectDir = C:\Users\Victor\Documents\PROGRAMMING\C#\webdev\financeApp\financeApp\financeApp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Victor\Documents\PROGRAMMING\C#\webdev\financeApp\financeApp\financeApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Victor/Documents/PROGRAMMING/C\#/webdev/financeApp/financeApp/financeApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Victor/Documents/PROGRAMMING/C\#/webdev/financeApp/financeApp/financeApp/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Victor/Documents/PROGRAMMING/C\#/webdev/financeApp/financeApp/financeApp/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Victor/Documents/PROGRAMMING/C\#/webdev/financeApp/financeApp/financeApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Victor/Documents/PROGRAMMING/C\#/webdev/financeApp/financeApp/financeApp/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Victor/Documents/PROGRAMMING/C\#/webdev/financeApp/financeApp/financeApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Victor/Documents/PROGRAMMING/C\#/webdev/financeApp/financeApp/financeApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-08if1qiz03
+
+[C:/Users/Victor/Documents/PROGRAMMING/C\#/webdev/financeApp/financeApp/financeApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-v4e52p8t28
