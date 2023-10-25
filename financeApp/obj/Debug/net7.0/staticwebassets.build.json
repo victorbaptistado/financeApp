@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "thF7Ch/HKYX5PpaSeiWUtvcpkXNQ2uQLY5KkdCrEIKA=",
+  "Hash": "3bIDgH7qsBqaSxI11j/AoJdkfEPtTuTwWwnxM5paq94=",
   "Source": "financeApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -136,23 +136,6 @@
       "OriginalItemSpec": "obj\\Debug\\net7.0\\financeApp.pdb"
     },
     {
-      "Identity": "C:\\Users\\Victor\\Documents\\PROGRAMMING\\C#\\webdev\\financeApp\\financeApp\\financeApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt.dat",
-      "SourceId": "financeApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Victor\\Documents\\PROGRAMMING\\C#\\webdev\\financeApp\\financeApp\\financeApp\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt.dat",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "native",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.12\\runtimes\\browser-wasm\\native\\icudt.dat"
-    },
-    {
       "Identity": "C:\\Users\\Victor\\Documents\\PROGRAMMING\\C#\\webdev\\financeApp\\financeApp\\financeApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "financeApp",
       "SourceType": "Computed",
@@ -202,6 +185,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.12\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+    },
+    {
+      "Identity": "C:\\Users\\Victor\\Documents\\PROGRAMMING\\C#\\webdev\\financeApp\\financeApp\\financeApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt.dat",
+      "SourceId": "financeApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Victor\\Documents\\PROGRAMMING\\C#\\webdev\\financeApp\\financeApp\\financeApp\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt.dat",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "native",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.12\\runtimes\\browser-wasm\\native\\icudt.dat"
     },
     {
       "Identity": "C:\\Users\\Victor\\Documents\\PROGRAMMING\\C#\\webdev\\financeApp\\financeApp\\financeApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
@@ -6953,6 +6953,23 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\Victor\\Documents\\PROGRAMMING\\C#\\webdev\\financeApp\\financeApp\\financeApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "financeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Victor\\Documents\\PROGRAMMING\\C#\\webdev\\financeApp\\financeApp\\financeApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
       "Identity": "C:\\Users\\Victor\\Documents\\PROGRAMMING\\C#\\webdev\\financeApp\\financeApp\\financeApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "financeApp",
       "SourceType": "Discovered",
@@ -7053,23 +7070,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
-    },
-    {
-      "Identity": "C:\\Users\\Victor\\Documents\\PROGRAMMING\\C#\\webdev\\financeApp\\financeApp\\financeApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "financeApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Victor\\Documents\\PROGRAMMING\\C#\\webdev\\financeApp\\financeApp\\financeApp\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\Users\\Victor\\Documents\\PROGRAMMING\\C#\\webdev\\financeApp\\financeApp\\financeApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
